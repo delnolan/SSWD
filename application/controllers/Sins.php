@@ -4,7 +4,7 @@
 /**
  * This file is the controller file for Sins
  *
- * PHP version 5
+ * PHP version 5.6.30
  *
  * LICENSE: This source file is subject to version 3.01 of the PHP license
  * that is available through the world-wide-web at the following URI:
@@ -16,11 +16,6 @@
  * @license    http://www.php.net/license/3_01.txt  PHP License 3.01
  */
 
-/*
-* Place includes, constant defines and $_GLOBAL settings here.
-* Make sure they have appropriate docblocks to avoid phpDocumentor
-* construing they are documented by the page-level docblock.
-*/
 
 
 defined('BASEPATH') OR exit('No direct script access allowed');
